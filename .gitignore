@@ -1,0 +1,6 @@
+.ipynb_checkpoints/
+.vscode/
+venv/
+*.env
+__pycache__/
+*.pickle
